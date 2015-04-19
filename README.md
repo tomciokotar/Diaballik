@@ -4,7 +4,7 @@ Gra napisana w C++ przy użyciu Qt4. Podczas gry komputer wykorzystuje algorytm 
 Zasady gry: http://www.diaballik.com/EN/Rules.html
 
 # Kompilacja
-```cmake . && make``` (wymagane Qt4)
+```$ cmake . && make``` (wymagane Qt4)
 
 # Uruchamianie
-```./bin/Diaballik ```
+```$ ./bin/Diaballik```
