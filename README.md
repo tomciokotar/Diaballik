@@ -7,4 +7,4 @@ Zasady gry: http://www.diaballik.com/EN/Rules.html
 ```cmake . && make``` (wymagane Qt4)
 
 # Uruchamianie
-```./bin/Diaballik```
+```./bin/Diaballik ```
