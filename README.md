@@ -1,10 +1,10 @@
 # Diaballik
-Gra napisana w C++ przy użyciu Qt4. Podczas gry komputer wykorzystuje algorytm alfa-beta. Dodatkowo edytor planszy, generowanie podpowiedzi i kilka innych bajerów.
+A game written in C++ and Qt4. Contains basic AI using alpha-beta algorithm, a board editor, a mechanism for giving hints and a few other features.
 
-Zasady gry: http://www.diaballik.com/EN/Rules.html
+Rules of the game: http://www.diaballik.com/EN/Rules.html
 
-# Kompilacja
-```$ cmake . && make``` (wymagane Qt4)
+# Compilation
+```$ cmake . && make``` (Qt4 and cmake required)
 
-# Uruchamianie
+# How to run
 ```$ ./bin/Diaballik```
