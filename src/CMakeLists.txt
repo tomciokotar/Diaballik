@@ -1,19 +1,19 @@
 set (SOURCES
- grafika.cpp
+ graphics.cpp
  main.cpp
- mainwindow.cpp
- pilka.cpp
- pionek.cpp
- plansza.cpp
- pole.cpp
- przes.cpp
- ruch.cpp
+ mainWindow.cpp
+ ball.cpp
+ piece.cpp
+ board.cpp
+ square.cpp
+ movement.cpp
+ turn.cpp
 )
 
 set (HEADERS
- mainwindow.h
- plansza.h
- ruch.h
+ mainWindow.h
+ board.h
+ turn.h
 )
 
 qt4_wrap_cpp (SOURCES ${HEADERS})
